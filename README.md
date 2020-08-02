@@ -10,10 +10,10 @@
     <br><br>:pizza: Take a look at my stats :P<br><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArunTeltia&&show_icons=true&&theme=tokyonight" />
   </samp>
-
-🔭 I’m currently working on skills of socket.io
-🌱 I’m currently learning networking
-🤔 I’m looking for help with getting started in freelancing
-💬 Ask me about : Web Development and Anime
-📫 How to reach me: teltia.arun18@gmail.com
+<br>
+🔭 I’m currently working on skills of socket.io<br>
+🌱 I’m currently learning networking<br>
+🤔 I’m looking for help with getting started in freelancing<br>
+💬 Ask me about : Web Development and Anime<br>
+📫 How to reach me: teltia.arun18@gmail.com<br>
 </p>
