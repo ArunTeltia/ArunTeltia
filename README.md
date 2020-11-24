@@ -12,9 +12,5 @@
   </samp>
 <br>
   <br>
-🔭 I’m currently working on skills of socket.io<br>
-🌱 I’m currently learning networking<br>
-🤔 I’m looking for help with getting started in freelancing<br>
-💬 Ask me about : Web Development and Anime<br>
-📫 How to reach me: teltia.arun18@gmail.com<br>
+🔭 I’m currently working on a Manga Website and writing a script to scrape data
 </p>
