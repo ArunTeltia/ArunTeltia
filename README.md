@@ -5,8 +5,6 @@
     :wave: Hey! Welcome to my profile
     <br>I am an CS engineering student who loves
       <br><em>learning new things</em> and create cool stuff from it.
+        <br> How to reach me: http://arunteltia.github.io/
   </samp>
-<center>  
- How to reach me:
- [Website](http://arunteltia.github.io/)
-  </center>
+
